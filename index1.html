@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">   
+    <style>
+    .card-header{
+        color:rgb(255, 255, 255);
+        font-size: 30px;
+        text-align: center;
+        background:rgb(0, 0, 0);
+        margin-top: 10px;
+        
+    }
+    .card-body{
+        color:rgb(255, 255, 255);
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        background: linear-gradient(to right top, #e8e7a8, #b7b484, #888463, #5a5743, #302e26);
+        font-family: 'Roboto', sans-serif;
+    }
+</style>
+</head>
+<body>
+    <script src="script.js"></script>
+</body>
+</html>
